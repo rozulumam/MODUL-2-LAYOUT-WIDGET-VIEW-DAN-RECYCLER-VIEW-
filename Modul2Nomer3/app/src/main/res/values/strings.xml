@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BelajarRecycleView</string>
+    <string name="alpha">Alpha</string>
+    <string name="bravo">Bravo</string>
+    <string name="charlie">Charlie</string>
+    <string name="delta">Delta</string>
+    <string name="echo">Echo</string>
+    <string name="foxtrot">Foxtrot</string>
+    <string name="golf">Golf</string>
+    <string name="hotel">Hotel</string>
+    <string name="india">India</string>
+    <string name="juliet">Juliet</string>
+</resources>
